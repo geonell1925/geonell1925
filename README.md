@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Geonell 👋
 
-<!--
-**geonell1925/geonell1925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT professional with 7+ years of experience supporting enterprise Microsoft environments specializing in:
 
-Here are some ideas to get you started:
+- Microsoft 365
+- Microsoft Entra ID
+- Active Directory
+- Exchange Online
+- Windows Server
+- Identity & Access Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+- CompTIA Security+ (SY0-701)
+- Microsoft SC-300 (In Progress)
+
+## Current Focus
+
+- Microsoft Identity & Access Management
+- Microsoft 365 Administration
+- Windows Server
+- Enterprise Infrastructure
+- PowerShell Automation
+
+## Enterprise Technical Projects
+
+- Enterprise Active Directory Infrastructure
+- Enterprise DNS Infrastructure
+- Wazuh SIEM with VirusTotal Integration
+
+📫 Connect with me on LinkedIn:
+www.linkedin.com/in/geonell-dela-cruz
